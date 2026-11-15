@@ -1,0 +1,12 @@
+{
+  "name": "emil-design-skills",
+  "description": "Emil Kowalski's design-engineering skills: UI polish, animation, gestures, motion review, mobile web, Sonner, Expo and Swift.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://emilkowal.ski"
+  },
+  "homepage": "https://github.com/emilkowalski/skills",
+  "repository": "https://github.com/emilkowalski/skills",
+  "license": "MIT"
+}

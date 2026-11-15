@@ -1,0 +1,20 @@
+{
+  "name": "emil-skills",
+  "owner": {
+    "name": "EVybu"
+  },
+  "metadata": {
+    "description": "A fork of emilkowalski/skills packaged as a Claude plugin marketplace."
+  },
+  "plugins": [
+    {
+      "name": "emil-design-skills",
+      "source": "./",
+      "description": "Emil Kowalski's design-engineering skills: UI polish, animation, gestures, motion review, mobile web, Sonner, Expo and Swift.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Emil Kowalski"
+      }
+    }
+  ]
+}
